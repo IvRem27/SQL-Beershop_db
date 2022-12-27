@@ -1,1 +1,1 @@
-SQL-Beershop_dB
+SQL-Beershop_db
